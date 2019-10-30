@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/team-aaa/the-mastermind/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The handbook is the central repository for how we run the DevTeam (Development, Operations, Tech Team). Please make a <a href="https://github.com/forward3d/handbook/pulls">pull request</a> to suggest improvements or add clarifications.
+Please use <a href="https://github.com/forward3d/handbook/issues">issues</a> to ask questions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## General Information
 
-### Markdown
+* [Values](/values/index.md)
+* [Handbook usage](/handbook-usage/index.md)
+  * [Page Template](/handbook-usage/page-template/index.md)
+* [Communication](/communication/index.md)
+* [Benefits](/benefits/index.md)
+* [OKRS](/okr/index.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Security
+* [Security Practices](/security/index.md)
+  * [Personal Security](/security/personal-security/index.md)
+  * [Backups](/security/backups/index.md)
+  * [Data Policy](/security/data-policy/index.md)
+  * [Disaster Recovery](/security/disaster-recovery/index.md)
 
-```markdown
-Syntax highlighted code block
+## Development
+* [Documentation](/development/documentation/index.md)
+* [Project Tracking](/development/project-tracking/index.md)
+* [Pull Request Savoir-vivre](/development/pull-request/index.md)
+* [GitHub Label Guide for Backlog](/development/github-label-guide/index.md)
+* [Maintenance Tracking](/development/maintenance-tracking/index.md)
+* [Fun Friday](/fun-friday/development/index.md)
+* [Team Roadmap](/development/roadmap/index.md)
+* Presentations
+  *  [Process](/development/presentation/project_process.pdf "Project Presentation")
+  *  [Workshops](/development/presentation/project_process.pdf "Workshops Presentation")
+  *  [Team Presentation](/development/presentation/team.pdf "Team Presentation")
 
-# Header 1
-## Header 2
-### Header 3
+## People
+* [On-boarding](/people/onboarding/index.md)
+* [Leavers process](/people/leavers/index.md)
 
-- Bulleted
-- List
+## Operations
 
-1. Numbered
-2. List
+* [OnCall](/on-call/index.md)
 
-**Bold** and _Italic_ and `Code` text
+## TechTeam
+* [Tech Team](/tt/index.md)
+  * [TT Tickets tracking process](/tt/tickets-tracking/index.md)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/team-aaa/the-mastermind/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Legal
+* [Legal](/legal/index.md)
