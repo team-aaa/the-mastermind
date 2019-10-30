@@ -5,7 +5,7 @@ Please use <a href="https://github.com/forward3d/handbook/issues">issues</a> to 
 
 ## General Information
 
-* [Values](/values/index.md)
+* [Values](/values/README.md)
 * [Handbook usage](/handbook-usage/index.md)
   * [Page Template](/handbook-usage/page-template/index.md)
 * [Communication](/communication/index.md)
